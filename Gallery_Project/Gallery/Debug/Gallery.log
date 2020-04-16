@@ -1,0 +1,9 @@
+﻿  AlbumManager.cpp
+  MemoryAccess.cpp
+C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\AlbumManager.cpp(234,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\MemoryAccess.cpp(462,57): warning C4100: 'colName': unreferenced formal parameter
+C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\MemoryAccess.cpp(478,56): warning C4100: 'colName': unreferenced formal parameter
+C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\MemoryAccess.cpp(491,59): warning C4100: 'colName': unreferenced formal parameter
+  Generating Code...
+C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\MemoryAccess.cpp(509,55): warning C4100: 'colName': unreferenced formal parameter
+  Gallery.vcxproj -> C:\Users\משתמש\Desktop\MAGSHIMIM\Advanced_programming\gallery_project_ron\Gallery_Project\Gallery\Debug\Gallery.exe
